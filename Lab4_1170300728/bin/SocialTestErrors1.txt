@@ -1,0 +1,17 @@
+CentralUser := <A,30,M>
+
+
+SocialTie ::= <A, B, 0.98>
+
+SocialTie ::= <A, C, 0.2>
+
+SocialTie ::= <C, D, 0.71>
+SocialTie ::= <B, D, 0.342>
+
+SocialTie ::= <B, C, 0.31>
+
+Friend ::= <B, 25, F>
+
+Friend ::= <C, 61, M>
+
+Friend ::= <D, 42, M>

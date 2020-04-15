@@ -1,0 +1,16 @@
+Athlete ::= <A,1,JAM,38,9.94>
+
+Athlete ::= <B2,USA,31,10.00>
+
+Athlete ::= <C,10,CNH,20,9.85>
+ 
+Athlete ::= <D,13,JPN,40,9.95>
+ 
+Athlete ::= <E,7,KOR,29,10.12>
+ 
+Athlete ::= <F,12,USA,28,10.01>
+ Game ::= 100
+
+Athlete ::= <G,8,USA,21,9.92>
+  
+NumOfTracks ::= 4

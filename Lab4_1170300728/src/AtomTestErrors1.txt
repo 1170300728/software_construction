@@ -1,0 +1,4 @@
+ElementName ::= C
+
+NumberOfTracks ::= 3
+NumberOfElectron ::= 1/2;2/4
